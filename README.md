@@ -1,5 +1,5 @@
 # Zero-Shot-Learning-with-XLM-RoBERTA
-=======
+
 This repository contains a FastAPI application for text classification using a pre-trained XLM-RoBERTa model. The model is trained on English data but can predict text in any language. The project includes:
 
 - **`app.py`**: A FastAPI application for predicting the label of a single sentence.
